@@ -1,5 +1,5 @@
 import comet_ml
-COMET_API_KET = "HTd95MIewu28w3RQOKl6FJg62"
+COMET_API_KET = ""
 import torch
 import torch.nn as nn
 import torch.optim as optim
